@@ -1,7 +1,7 @@
 [submodule "locale/en/crystal-book"]
 	path = locale/en/crystal-book
-	url = git://github.com/crystal-lang/crystal-book.git
+	url = git@github.com:crystal-lang/crystal-book.git
 [submodule "locale/en/crystal-website"]
 	path = locale/en/crystal-website
-	url = git://github.com/crystal-jp/crystal-website.git
+	url = git@github.com:crystal-jp/crystal-website.git
 	branch = ja
